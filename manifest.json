@@ -1,6 +1,6 @@
 {
-  "short_name": "Rubbr",
-  "name": "Rubbr",
+  "short_name": "React PWA",
+  "name": "React PWA",
   "start_url": "./",
   "display": "standalone",
   "theme_color": "#88dbdf",
