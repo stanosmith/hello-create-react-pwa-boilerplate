@@ -1,6 +1,6 @@
-import React, { Component } from "react";
-import logo from "./logo.svg";
-import "./App.css";
+import React, { Component } from 'react';
+import logo from './logo.svg';
+import './App.css';
 import {
   Card,
   CardActions,
@@ -8,10 +8,10 @@ import {
   CardMedia,
   CardTitle,
   CardText
-} from "material-ui/Card";
-import FlatButton from "material-ui/FlatButton";
-import injectTapEventPlugin from "react-tap-event-plugin";
-import MuiThemeProvider from "material-ui/styles/MuiThemeProvider";
+} from 'material-ui/Card';
+import FlatButton from 'material-ui/FlatButton';
+import injectTapEventPlugin from 'react-tap-event-plugin';
+import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 
 // Needed for onTouchTap
 // http://stackoverflow.com/a/34015469/988941
@@ -41,7 +41,7 @@ class App extends Component {
                 <CardTitle title="Overlay title" subtitle="Overlay subtitle" />
               }
             >
-              <img src="https://unsplash.it/800/?random" alt="" />
+              <img src="https://unsplash.it/800" alt="" />
             </CardMedia>
             <CardTitle title="Card title" subtitle="Card subtitle" />
             <CardText>
