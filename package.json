@@ -32,5 +32,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://stanosmith.github.io/create-react-pwa-boilerplate"
+  "homepage": "https://stanosmith.github.io/hello-create-react-pwa-boilerplate"
 }
